@@ -1,5 +1,4 @@
 CC = gcc
-#CC_ARGS = -Wall -L/usr/local/lib -lSDL -lSDLmain -lSDL -mwindows
 CC_ARGS = -Wall -L/usr/local/lib -lSDL.dll 
 LIBS = 
 #-lSDL
